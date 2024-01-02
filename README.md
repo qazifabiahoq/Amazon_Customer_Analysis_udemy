@@ -40,8 +40,12 @@ Dataset Information
 The dataset is collected from a Udemy course on Data Analytics, focusing on Amazon customer data.
 
 Course Acknowledgment
-This analysis project is part of a Udemy course, contributing to practical learning and skill development in data analytics. Get the data set here:
+This analysis project is part of a Udemy course, contributing to practical learning and skill development in data analytics. 
+
+Get the data set here:
 https://drive.google.com/drive/folders/1DOf6Mqx33DJCnCJa3A9AFHO0nG76cMrN
-Cource link: https://www.udemy.com/course/data-analysis-real-world-use-cases-hands-on-python/
+
+
+Course link: https://www.udemy.com/course/data-analysis-real-world-use-cases-hands-on-python/
 
 Note: The visualizations for further exploration of the findings can be found in the provided 'pics' folder.
